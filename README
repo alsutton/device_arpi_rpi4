@@ -47,3 +47,6 @@ Read it first : https://github.com/snappautomotive/firmware_rpi-local_manifests
   <kernel directory>/out/arpi-5.10/dist/Image.gz to p1:/
   <kernel directory>/out/arpi-5.10/dist/bcm2711-rpi-*.dtb to p1:/
   <kernel directory>/out/arpi-5.10/dist/vc4-kms-v3d-pi4.dtbo to p1:/overlays/
+
+# Create Image
+  $ sudo ./mkimg.sh
