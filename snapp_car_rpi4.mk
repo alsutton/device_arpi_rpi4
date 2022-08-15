@@ -21,7 +21,7 @@ $(call inherit-product, device/snappautomotive/common/additions.mk)
 $(call inherit-product, device/google_car/common/post_google_car.mk)
 
 PRODUCT_NAME := snapp_car_rpi4
-PRODUCT_DEVICE := rpi4
+PRODUCT_DEVICE := rpi
 PRODUCT_BRAND := SnappAutomotive
 PRODUCT_MANUFACTURER := Snapp Automotive and ARPi
 PRODUCT_MODEL := AAOS on Raspberry Pi 4
